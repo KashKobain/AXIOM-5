@@ -1,0 +1,8 @@
+# AXIOM-5 requirements
+# All five axiom modules use stdlib only.
+# No external dependencies required for proof_run.py.
+# Add extras here as bridges to BRAIN/abramelin-agent-runtime are wired.
+
+# Optional: if connecting to abramelin-agent-runtime persistence layer
+# sqlalchemy>=2.0
+# cryptography>=41.0
